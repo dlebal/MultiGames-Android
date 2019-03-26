@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- resources -->
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+
+    <!-- ad_mob -->
+    <string name="ad_mob_app_id">ca-app-pub-4182542981735398~9232949812</string>
+    <string name="ad_mob_app_activity_main_banner_id">@string/ad_mob_app_activity_main_banner_id_production</string>
+    <string name="ad_mob_app_activity_main_banner_id_preproduction">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_mob_app_activity_main_banner_id_production">ca-app-pub-4182542981735398/2102109841</string>
+    <string name="ad_mob_app_activity_game_intersticial_id">@string/ad_mob_app_activity_game_intersticial_production</string>
+    <string name="ad_mob_app_activity_game_intersticial_preproduction">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="ad_mob_app_activity_game_intersticial_production">ca-app-pub-4182542981735398/6046058432</string>
+
+</resources>

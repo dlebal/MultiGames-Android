@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- resources -->
+<resources>
+
+    <!-- activity_splash_screen -->
+    <dimen name="activity_splash_screen_logo_layout_width">200dp</dimen>
+    <dimen name="activity_splash_screen_logo_layout_height">200dp</dimen>
+    <dimen name="activity_splash_screen_divider_layout_height">1dp</dimen>
+    <dimen name="activity_splash_screen_appName_textSize">60sp</dimen>
+    <dimen name="activity_splash_screen_appName_colorSpeed">4dp</dimen>
+    <dimen name="activity_splash_screen_loading_textSize">12sp</dimen>
+    <dimen name="activity_splash_screen_poweredBy_drawablePadding">5dp</dimen>
+    <dimen name="activity_splash_screen_poweredBy_padding">5dp</dimen>
+    <dimen name="activity_splash_screen_poweredBy_textSize">12sp</dimen>
+
+    <!-- item_game -->
+    <dimen name="item_game_container_layout_margin">10dp</dimen>
+    <dimen name="item_game_container_cardCornerRadius">8dp</dimen>
+    <dimen name="item_game_container_cardElevation">10dp</dimen>
+    <dimen name="item_game_thumbnail_layout_height">100dp</dimen>
+    <dimen name="item_game_name_layout_margin">10dp</dimen>
+    <dimen name="item_game_name_textSize">16sp</dimen>
+
+</resources>

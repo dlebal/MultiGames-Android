@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- network-security-config -->
+<network-security-config>
+
+    <!-- domain-config -->
+    <domain-config cleartextTrafficPermitted="true">
+
+        <!-- domain -->
+        <domain includeSubdomains="true">dlebal.es</domain>
+        <domain includeSubdomains="true">playtomax.com</domain>
+
+    </domain-config>
+
+</network-security-config>

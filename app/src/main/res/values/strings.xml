@@ -3,7 +3,14 @@
 <!-- resources -->
 <resources>
 
-    <!-- string -->
+    <!-- app -->
     <string name="app_name">MultiGames</string>
+
+    <!-- activity_splash_screen -->
+    <string name="activity_splash_screen_loading_text">Loading…</string>
+    <string name="activity_splash_screen_poweredBy_text">Powered by dlebal</string>
+
+    <!-- item_game -->
+    <string name="item_game_thumbnail_contentDescription">Game</string>
 
 </resources>

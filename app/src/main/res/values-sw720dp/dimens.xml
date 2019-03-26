@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- resources -->
+<resources>
+
+    <!-- activity_splash_screen -->
+    <dimen name="activity_splash_screen_logo_layout_width">400dp</dimen>
+    <dimen name="activity_splash_screen_logo_layout_height">400dp</dimen>
+    <dimen name="activity_splash_screen_appName_textSize">120sp</dimen>
+    <dimen name="activity_splash_screen_loading_textSize">24sp</dimen>
+    <dimen name="activity_splash_screen_poweredBy_textSize">24sp</dimen>
+
+</resources>
