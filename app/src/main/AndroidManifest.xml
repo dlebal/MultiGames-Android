@@ -25,7 +25,8 @@
 
         <!-- SplashScreenActivity -->
         <activity
-                android:name=".activities.SplashScreenActivity">
+                android:name=".activities.SplashScreenActivity"
+                android:configChanges="orientation|screenSize|keyboardHidden">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <action android:name="android.intent.action.VIEW"/>
