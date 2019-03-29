@@ -130,7 +130,7 @@ class MainActivity : AppCompatActivity(), GameAdapter.Listener {
 
         // Initialize the game list
         Log.d(this.className + ": $methodName", "Initialize the game list")
-        val gridLayoutManager = GridLayoutManager(this, 2)
+        val gridLayoutManager = GridLayoutManager(this, resources.getInteger(R.integer.activity_main_gridLayoutManager_spanCount))
         gameList.layoutManager = gridLayoutManager
 
         // Get games

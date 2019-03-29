@@ -1,9 +1,10 @@
 Changelog
 =========
 
-Version 2.0.1 (2019-03-30)
+Version 2.0.1 (2019-03-29)
 --------------------------
 
+ * Adapt design to tablets
  * Fix the orientation crash in splash screen
 
 Version 2.0.0 (2019-03-23)
